@@ -8,9 +8,6 @@
 
 1. Click the green **Code** button on this page and select **Download ZIP**
 <img width="637" height="96" alt="image" src="https://github.com/user-attachments/assets/f92696de-6a2b-42f9-994d-8d497d93e0e6" />
-
-
-
 2. Extract the ZIP file to a permanent folder on your computer (**do not delete or move this folder**)  
 3. Open **Google Chrome**  
 4. In the address bar, go to `chrome://extensions/` and press **Enter**  
