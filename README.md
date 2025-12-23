@@ -1,6 +1,6 @@
 # Booklet – CIE Past Papers Chrome Extension
 
-Booklet is a Chrome extension that provides quick access to Cambridge International (CIE) IGCSE and AS/A Level past papers through a simple and clean interface.
+### Booklet is a Chrome extension that provides quick access to Cambridge International (CIE) IGCSE and AS/A Level past papers through a simple and clean interface.
 
 ---
 
@@ -57,24 +57,11 @@ Booklet is a Chrome extension that provides quick access to Cambridge Internatio
 
 #
 
-### 2. If Booklet is already loaded, remove the old version first  
-- Go to the Extensions page  
-- Locate Booklet  
-- Click Remove  
-- Confirm removal  
-
-#
-
-### 3. Load the updated version  
-- Click Load unpacked  
-- Select the newly extracted Booklet folder  
-
-#
-
-### 4. Confirm the updated extension appears in the extensions list  
+### 2. Confirm the updated extension appears in the extensions list  
 Ensure there are no errors shown under the extension card.
+<img width="500" height="266" alt="image" src="https://github.com/user-attachments/assets/5ff45bf2-31c0-4601-88db-0ccf74c90c90" />
 
 #
 
-### 5. (Optional) Refresh any open Booklet tabs  
-If Booklet was already open, close and reopen it to apply the update.
+### 5. Refresh (update) extensions
+<img width="475" height="500" alt="image" src="https://github.com/user-attachments/assets/d89a11fe-0548-43ca-b31e-975d9274469f" />
