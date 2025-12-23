@@ -8,7 +8,7 @@ It is designed for students who want fast, organized access to exam resources wi
 
 ## Download Instructions
 
-### Method 1: Download ZIP (Recommended)
+### Download ZIP (Recommended)
 
 1. Click the green **Code** button on this page  
 2. Select **Download ZIP**  
