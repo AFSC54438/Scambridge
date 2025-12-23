@@ -1,0 +1,51 @@
+html {
+  width: 500px;
+  height: 500px;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.popup-root {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.scrollable-subjects {
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    
+    .scrollable-subjects::-webkit-scrollbar {
+      width: 8px;
+    }
+    
+    .scrollable-subjects::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      border-radius: 4px;
+    }
+    
+    .dark .scrollable-subjects::-webkit-scrollbar-track {
+      background: #374151;
+    }
+    
+    .scrollable-subjects::-webkit-scrollbar-thumb {
+      background: #888;
+      border-radius: 4px;
+    }
+    
+    .scrollable-subjects::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+    
+    .dark .scrollable-subjects::-webkit-scrollbar-thumb {
+      background: #6B7280;
+    }
+    
+    .dark .scrollable-subjects::-webkit-scrollbar-thumb:hover {
+      background: #9CA3AF;
+    }

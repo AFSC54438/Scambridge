@@ -1,0 +1,19 @@
+{
+    "name": "Booklet",
+    "description": "Quickly access CIE IGCSE & A Level past papers",
+    "version": "2.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "booklet.png",
+      "default_title": "Access past papers"
+    },
+    "permissions": ["downloads", "activeTab", "storage", "webRequest"],
+    "author": ["AFS", "YAO"],
+    "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+    },
+    "host_permissions": [
+    "https://pastpapers.papacambridge.com/*"
+    ]
+}
