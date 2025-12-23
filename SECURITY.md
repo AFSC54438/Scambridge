@@ -1,42 +1,37 @@
 # Security Policy
 
-## Overview
+## Project Overview
 
-This project is a Google Chrome browser extension that converts PDF files into a booklet format.  
-All functionality is executed locally within the user’s browser.
+This repository contains a Google Chrome extension that enables quick access to Cambridge International (CIE) IGCSE and A-Level past papers through a simple interface. :contentReference[oaicite:1]{index=1}
 
-No user data is transmitted, stored externally, or shared.
+## Data Collection & Privacy
 
-## Data Handling & Privacy
-
-- No personal data is collected, stored, or transmitted.
-- All PDF processing occurs entirely on the client side.
-- No cookies, analytics, telemetry, or tracking mechanisms are used.
+- This extension **does not collect, store, or transmit any personal user information**.
+- All processing happens locally in the user’s browser.
+- No tracking, analytics, telemetry, or cookies are used.
 
 ## Permissions
 
-Any permissions requested by the extension (such as access to files or browser storage) are strictly limited to enabling core features of the extension.
+Any browser permissions requested (such as access to tabs or storage) are strictly necessary to enable the extension’s core functionality.
 
-- Data accessed by these permissions remains on the user’s device.
-- No permission is used for background data collection or monitoring.
+- Permissions are used only to access content relevant to extension features.
+- No permission is used for data harvesting, background monitoring, or external reporting.
 
-## Third-Party Services
+## External Communication
 
-- The extension does not communicate with external servers.
-- No third-party APIs, analytics tools, or services are used.
+- The extension **does not send data to external servers or third-party services**.
+- Any network requests made by the extension are strictly for loading allowed content necessary for the extension’s function.
 
-## Reporting Security Vulnerabilities
+## Vulnerability Reporting
 
-If you discover a security vulnerability, please report it responsibly:
+If you find a security issue:
 
-- Open a **private issue** on the repository, or
-- Contact the repository owner directly via GitHub.
+- Open a **private issue** in this repository with detailed steps to reproduce.
+- Do **not** disclose vulnerabilities publicly until they have been addressed.
 
-Please do **not** disclose security issues publicly until they have been reviewed and addressed.
+## Policy Updates
 
-## Updates
-
-This security policy may be updated as the project evolves.  
-All changes will be documented in this file.
+This file may be updated as the project evolves.  
+_All changes will be documented here._
 
 _Last updated: December 23, 2025_
