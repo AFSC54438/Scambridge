@@ -21,10 +21,17 @@
 
 #
 
-5. Enable **Developer mode** using the toggle in the top-right corner  
+5. Enable **Developer mode** using the toggle in the top-right corner
+<img width="1919" height="436" alt="image" src="https://github.com/user-attachments/assets/e95322b6-69df-4e08-b571-e58fea576821" />
+
+#
+
 6. Click **Load unpacked**  
+
 7. Select the **extracted Booklet folder** (the folder containing `manifest.json`)  
+
 8. Confirm the extension appears in the extensions list  
+
 9. (Optional) Pin the extension by clicking the **puzzle icon** (🧩) in the toolbar and selecting the **pin** icon next to **Booklet**
 
 
