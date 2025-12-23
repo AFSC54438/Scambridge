@@ -48,10 +48,33 @@
 ### 8. Pin the extension by clicking the **puzzle icon** in the toolbar and selecting the **pin** icon next to **Booklet**
 <img width="500" height="389" alt="image" src="https://github.com/user-attachments/assets/2b213d34-1176-4916-9e6f-7b00af53687f" />
 
-#
-
 ---
 
 ## Update
 
-### 1. 
+### 1. Repeat **steps 3 to 6** from the Installation section  
+(Open Chrome → Extensions → Enable Developer mode → Load unpacked → Select the updated **Booklet** folder)
+
+#
+
+### 2. If Booklet is already loaded, remove the old version first  
+- Go to the Extensions page  
+- Locate **Booklet**  
+- Click **Remove**  
+- Confirm removal  
+
+#
+
+### 3. Load the updated version  
+- Click **Load unpacked**  
+- Select the **newly extracted Booklet folder**  
+
+#
+
+### 4. Confirm the updated extension appears in the extensions list  
+Ensure there are **no errors** shown under the extension card.
+
+#
+
+### 5. (Optional) Refresh any open Booklet tabs  
+If Booklet was already open, close and reopen it to apply the update.
