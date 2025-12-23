@@ -1,4 +1,4 @@
-# Booklet – CIE Past Papers Chrome Extension
+<img width="637" height="96" alt="image" src="https://github.com/user-attachments/assets/ebad5188-a638-420b-b9b3-0beec31b157a" /># Booklet – CIE Past Papers Chrome Extension
 
 **Booklet** is a Chrome extension that provides quick access to **Cambridge International (CIE) IGCSE and AS/A Level past papers** through a simple and clean interface.
 
@@ -6,7 +6,11 @@
 
 ## Installation Instructions
 
-1. Click the green **Code** button on this page and select **Download ZIP**  
+1. Click the green **Code** button on this page and select **Download ZIP**
+<img width="637" height="96" alt="image" src="https://github.com/user-attachments/assets/f92696de-6a2b-42f9-994d-8d497d93e0e6" />
+
+
+
 2. Extract the ZIP file to a permanent folder on your computer (**do not delete or move this folder**)  
 3. Open **Google Chrome**  
 4. In the address bar, go to `chrome://extensions/` and press **Enter**  
