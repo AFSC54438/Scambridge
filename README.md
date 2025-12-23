@@ -17,7 +17,10 @@
 #
 
 3. Open **Google Chrome**  
-4. In the address bar, go to `chrome://extensions/` and press **Enter**  
+<img width="367" height="500" alt="image" src="https://github.com/user-attachments/assets/7ef1dc84-cdc9-477c-86d7-76067972250d" />
+
+#
+
 5. Enable **Developer mode** using the toggle in the top-right corner  
 6. Click **Load unpacked**  
 7. Select the **extracted Booklet folder** (the folder containing `manifest.json`)  
