@@ -1,4 +1,4 @@
-<img width="619" height="84" alt="image" src="https://github.com/user-attachments/assets/4d15b166-bf45-4a4d-94bb-fd72c6c220fe" /># Booklet – CIE Past Papers Chrome Extension
+# Booklet – CIE Past Papers Chrome Extension
 
 **Booklet** is a Chrome extension that provides quick access to **Cambridge International (CIE) IGCSE and AS/A Level past papers** through a simple and clean interface.
 
