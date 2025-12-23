@@ -29,7 +29,10 @@
 
 #
 
-7. Select the **extracted Booklet folder** (the folder containing `manifest.json`)
+7. Select the **extracted Booklet folder**
+
+
+#
 
 8. Confirm the extension appears in the extensions list
 
