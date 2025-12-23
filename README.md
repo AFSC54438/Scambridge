@@ -29,8 +29,9 @@
 
 #
 
-7. Select the **extracted Booklet folder**
+7. Select the **extracted Booklet folder** and select the **Booklet folder inside***
 <img width="163" height="188" alt="image" src="https://github.com/user-attachments/assets/88f1e58a-c980-496e-9b1e-229b1b8c72ab" />
+
 <img width="619" height="84" alt="image" src="https://github.com/user-attachments/assets/903f82f6-d061-4dbb-abfa-1a23e6aec21d" />
 
 
